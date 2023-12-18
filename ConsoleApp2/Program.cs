@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!");
+            Console.WriteLine("ПHf,jnf d Git visual 2019!");
         }
     }
 }
