@@ -12,6 +12,8 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Привет мир!");
             Console.WriteLine("ПHf,jnf d Git visual 2019!");
+            Console.WriteLine("ПHf,jnf d Git visual 2020!");
+            Console.WriteLine("ПHf,jnf d Git visual 2021!");
         }
     }
 }
